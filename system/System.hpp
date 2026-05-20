@@ -21,5 +21,6 @@
 #define WHOA_MAC_11_0 1100
 #define WHOA_LINUX_UNK 9999
 #define WHOA_ANDROID_UNK 9999
+#define WHOA_WII_UNK 9999
 
 #endif
